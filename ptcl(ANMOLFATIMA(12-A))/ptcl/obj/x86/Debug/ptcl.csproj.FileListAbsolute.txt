@@ -1,0 +1,21 @@
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\bin\Debug\ptcl.exe
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\bin\Debug\ptcl.pdb
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\ptcl.csproj.GenerateResource.Cache
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\ptcl.exe
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\ptcl.pdb
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Administrator.KTR-10032263\documents\visual studio 2010\Projects\ptcl\ptcl\obj\x86\Debug\ptcl.csprojResolveAssemblyReference.cache
+F:\ptcl\ptcl\obj\x86\Debug\ptcl.exe
+F:\ptcl\ptcl\obj\x86\Debug\ptcl.pdb
